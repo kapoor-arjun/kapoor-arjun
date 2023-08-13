@@ -2,7 +2,7 @@
 <img width="100%" height = "250px" src="https://raw.githubusercontent.com/kapoor-arjun/kapoor-arjun/main/LevelUp.jpeg" alt="cover" />
 </div>
 
-<h1> Hello Fellow <Developers.h> <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+<h1> Hello Fellow Developers! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/kapoor-arjun.https://github.com/kapoor-arjun)
