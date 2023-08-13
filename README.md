@@ -9,8 +9,6 @@
 
 <h2> My name is Arjun Kapoor. Thank You for taking the time to view my GitHub Profile :smile: </h2>
 
-![](https://komarev.com/ghpvc/?username=kapoor-arjun&style=for-the-badge&color=blueviolet)
-
 <h2> About Me </h2>
 
 - 🔭 I’m currently working on making video games
@@ -40,6 +38,14 @@
 <h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="70px" height=60px> </h2>
 <a href = 'https://www.linkedin.com/in/kapoor-arjun/'> <img width = '40px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
 <a href = 'https://github.com/kapoor-arjun'> <img width = '40px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+
+<h2> Github Stats </h2>
+
+![](https://komarev.com/ghpvc/?username=kapoor-arjun&style=for-the-badge&color=blueviolet)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kapoor-arjun&layout=compact)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=kapoor-arjun&show_icons=true)
 
 <h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
 
