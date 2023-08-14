@@ -47,7 +47,7 @@
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="70px" height=60px> </h2>
-<a href = 'https://www.linkedin.com/in/kapoor-arjun/'> <img width = '40px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
+<a href = 'https://www.linkedin.com/in/kapoor-arjun/'> <img width = '40px' align= 'center' src="https://raw.githubusercontent.com/kapoor-arjun/kapoor-arjun/d2e9e654e66b363f861385d3261bc857c292ff5c/icons/linkedin.svg"/></a>
 <a href = 'https://github.com/kapoor-arjun'> <img width = '40px' align= 'center' src="https://raw.githubusercontent.com/kapoor-arjun/kapoor-arjun/03dd8a720e9ee1361602dde6215bbcbbbc66b73c/icons/github.svg"/></a> 
 
 <h2> Github Stats </h2>
