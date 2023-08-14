@@ -22,29 +22,33 @@
 - 💬 Reach me here: arjun.kapoor@tutamail.com
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
-<a href= https://github.com/https://github.com/kapoor-arjun?tab=repositories&q=&type=&language=unreal&sort= > <img width ='50px' height='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/unreal.svg'> </a>
-<a href= https://github.com/https://github.com/kapoor-arjun?tab=repositories&q=&type=&language=cpp&sort= > <img width ='50px' height='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-<a href= https://github.com/https://github.com/kapoor-arjun?tab=repositories&q=&type=&language=unity&sort= > <img width ='50px' height='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/unity.svg'> </a>
-<a href= https://github.com/https://github.com/kapoor-arjun?tab=repositories&q=&type=&language=csharp&sort= > <img width ='50px' height='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
-<a href= https://github.com/https://github.com/kapoor-arjun?tab=repositories&q=&type=&language=python&sort= > <img width ='50px' height='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/https://github.com/kapoor-arjun?tab=repositories&q=&type=&language=bash&sort= > <img width ='50px' height='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bash.svg'> </a>
-<a href= https://github.com/https://github.com/kapoor-arjun?tab=repositories&q=&type=&language=jenkins&sort= > <img width ='50px' height='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jenkins.svg'> </a>
-<a href= https://github.com/https://github.com/kapoor-arjun?tab=repositories&q=&type=&language=docker&sort= > <img width ='50px' height='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'> </a>
-<a href= https://github.com/https://github.com/kapoor-arjun?tab=repositories&q=&type=&language=kubernetes&sort= > <img width ='50px' height='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kubernetes.svg'> </a>
-<a href= https://github.com/https://github.com/kapoor-arjun?tab=repositories&q=&type=&language=linux&sort= > <img width ='50px' height='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </a>
 
 <div>
-<img width ='50px' height='50px' src ='https://raw.githubusercontent.com/kapoor-arjun/kapoor-arjun/6a9479a1eecd160e4bd9234de908ba6543f233f3/icons/git.svg'>
-<img width ='50px' height='50px' src ='https://raw.githubusercontent.com/kapoor-arjun/kapoor-arjun/6a9479a1eecd160e4bd9234de908ba6543f233f3/icons/github.svg'>
-<img width ='50px' height='50px' src ='https://raw.githubusercontent.com/kapoor-arjun/kapoor-arjun/6a9479a1eecd160e4bd9234de908ba6543f233f3/icons/gitlab.svg'>
-<img width ='50px' height='50px' src ='https://raw.githubusercontent.com/kapoor-arjun/kapoor-arjun/6a9479a1eecd160e4bd9234de908ba6543f233f3/icons/visualstudiocode.svg'>
+  <img width ='60px' height='60px' src ='https://raw.githubusercontent.com/kapoor-arjun/kapoor-arjun/0d4dc6781cefed2fe3f99c8514e74e76e7b3870d/icons/cplusplus.svg'>
+  <img width ='60px' height='60px' src ='https://raw.githubusercontent.com/kapoor-arjun/kapoor-arjun/0d4dc6781cefed2fe3f99c8514e74e76e7b3870d/icons/csharp.svg'>
+  <img width ='60px' height='60px' src ='https://raw.githubusercontent.com/kapoor-arjun/kapoor-arjun/d58cdab48a1770f7d14f53bd478c3a8146d492ad/icons/python.svg'>
+  <img width ='60px' height='60px' src ='https://raw.githubusercontent.com/kapoor-arjun/kapoor-arjun/d58cdab48a1770f7d14f53bd478c3a8146d492ad/icons/unrealengine.svg'>
+  <img width ='60px' height='60px' src ='https://raw.githubusercontent.com/kapoor-arjun/kapoor-arjun/d58cdab48a1770f7d14f53bd478c3a8146d492ad/icons/unity.svg'>
+  <img width ='60px' height='60px' src ='https://raw.githubusercontent.com/kapoor-arjun/kapoor-arjun/d58cdab48a1770f7d14f53bd478c3a8146d492ad/icons/git.svg'>
+  <img width ='60px' height='60px' src ='https://raw.githubusercontent.com/kapoor-arjun/kapoor-arjun/03dd8a720e9ee1361602dde6215bbcbbbc66b73c/icons/github.svg'>
+  <img width ='60px' height='60px' src ='https://raw.githubusercontent.com/kapoor-arjun/kapoor-arjun/03dd8a720e9ee1361602dde6215bbcbbbc66b73c/icons/gitlab.svg'>
+  <img width ='60px' height='60px' src ='https://raw.githubusercontent.com/kapoor-arjun/kapoor-arjun/03dd8a720e9ee1361602dde6215bbcbbbc66b73c/icons/visualstudio.svg'>
+  <img width ='60px' height='60px' src ='https://raw.githubusercontent.com/kapoor-arjun/kapoor-arjun/03dd8a720e9ee1361602dde6215bbcbbbc66b73c/icons/visualstudiocode.svg'>
+  <img width ='60px' height='60px' src ='https://raw.githubusercontent.com/kapoor-arjun/kapoor-arjun/03dd8a720e9ee1361602dde6215bbcbbbc66b73c/icons/gnubash.svg'>
+  <img width ='60px' height='60px' src ='https://raw.githubusercontent.com/kapoor-arjun/kapoor-arjun/03dd8a720e9ee1361602dde6215bbcbbbc66b73c/icons/linux.svg'>
+  <img width ='60px' height='60px' src ='https://raw.githubusercontent.com/kapoor-arjun/kapoor-arjun/03dd8a720e9ee1361602dde6215bbcbbbc66b73c/icons/jenkins.svg'>
+  <img width ='60px' height='60px' src ='https://raw.githubusercontent.com/kapoor-arjun/kapoor-arjun/03dd8a720e9ee1361602dde6215bbcbbbc66b73c/icons/ansible.svg'>
+  <img width ='60px' height='60px' src ='https://raw.githubusercontent.com/kapoor-arjun/kapoor-arjun/03dd8a720e9ee1361602dde6215bbcbbbc66b73c/icons/docker.svg'>
+  <img width ='60px' height='60px' src ='https://raw.githubusercontent.com/kapoor-arjun/kapoor-arjun/03dd8a720e9ee1361602dde6215bbcbbbc66b73c/icons/kubernetes.svg'>
+  <img width ='60px' height='60px' src ='https://raw.githubusercontent.com/kapoor-arjun/kapoor-arjun/03dd8a720e9ee1361602dde6215bbcbbbc66b73c/icons/terraform.svg'>
+  <img width ='60px' height='60px' src ='https://raw.githubusercontent.com/kapoor-arjun/kapoor-arjun/03dd8a720e9ee1361602dde6215bbcbbbc66b73c/icons/amazonaws.svg'>
 </div>
 
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="70px" height=60px> </h2>
 <a href = 'https://www.linkedin.com/in/kapoor-arjun/'> <img width = '40px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
-<a href = 'https://github.com/kapoor-arjun'> <img width = '40px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href = 'https://github.com/kapoor-arjun'> <img width = '40px' align= 'center' src="https://raw.githubusercontent.com/kapoor-arjun/kapoor-arjun/03dd8a720e9ee1361602dde6215bbcbbbc66b73c/icons/github.svg"/></a> 
 
 <h2> Github Stats </h2>
 
