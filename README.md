@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://raw.githubusercontent.com/kapoor-arjun/kapoor-arjun/main/LevelUp.jpeg" alt="cover" />
+<img width="100%" height = "250px" src="https://github.com/kapoor-arjun/kapoor-arjun/blob/main/banner/LevelUp.jpeg" alt="cover" />
 </div>
 
 <h1> Hello Fellow Developers! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
@@ -32,7 +32,14 @@
 <a href= https://github.com/https://github.com/kapoor-arjun?tab=repositories&q=&type=&language=docker&sort= > <img width ='50px' height='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'> </a>
 <a href= https://github.com/https://github.com/kapoor-arjun?tab=repositories&q=&type=&language=kubernetes&sort= > <img width ='50px' height='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kubernetes.svg'> </a>
 <a href= https://github.com/https://github.com/kapoor-arjun?tab=repositories&q=&type=&language=linux&sort= > <img width ='50px' height='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </a>
-<img width ='50px' height='50px' src ='https://raw.githubusercontent.com/kapoor-arjun/kapoor-arjun/77213f224853d74dc4f48cd043657e03c472a771/git.svg'>
+
+<div>
+<img width ='50px' height='50px' src ='https://raw.githubusercontent.com/kapoor-arjun/kapoor-arjun/6a9479a1eecd160e4bd9234de908ba6543f233f3/icons/git.svg'>
+<img width ='50px' height='50px' src ='https://raw.githubusercontent.com/kapoor-arjun/kapoor-arjun/6a9479a1eecd160e4bd9234de908ba6543f233f3/icons/github.svg'>
+<img width ='50px' height='50px' src ='https://raw.githubusercontent.com/kapoor-arjun/kapoor-arjun/6a9479a1eecd160e4bd9234de908ba6543f233f3/icons/gitlab.svg'>
+<img width ='50px' height='50px' src ='https://raw.githubusercontent.com/kapoor-arjun/kapoor-arjun/6a9479a1eecd160e4bd9234de908ba6543f233f3/icons/visualstudiocode.svg'>
+</div>
+
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="70px" height=60px> </h2>
