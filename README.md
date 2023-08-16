@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning DevOps 
 
-- 👯 I’m looking to collaborate on Game Dev / DevOps projects
+- 👯 I’m open to collaborate on Game Dev / DevOps projects
 
 - 💬 Talk to me about Game Development, C++, Python, DevOps, Cloud, Freelancing Opportunites, Linux, Open Source...
 
