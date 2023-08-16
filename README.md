@@ -32,8 +32,6 @@
   <img width ='60px' height='60px' src ='https://raw.githubusercontent.com/kapoor-arjun/kapoor-arjun/d58cdab48a1770f7d14f53bd478c3a8146d492ad/icons/git.svg'>
   <img width ='60px' height='60px' src ='https://raw.githubusercontent.com/kapoor-arjun/kapoor-arjun/03dd8a720e9ee1361602dde6215bbcbbbc66b73c/icons/github.svg'>
   <img width ='60px' height='60px' src ='https://raw.githubusercontent.com/kapoor-arjun/kapoor-arjun/03dd8a720e9ee1361602dde6215bbcbbbc66b73c/icons/gitlab.svg'>
-  <img width ='60px' height='60px' src ='https://raw.githubusercontent.com/kapoor-arjun/kapoor-arjun/03dd8a720e9ee1361602dde6215bbcbbbc66b73c/icons/visualstudio.svg'>
-  <img width ='60px' height='60px' src ='https://raw.githubusercontent.com/kapoor-arjun/kapoor-arjun/03dd8a720e9ee1361602dde6215bbcbbbc66b73c/icons/visualstudiocode.svg'>
   <img width ='60px' height='60px' src ='https://raw.githubusercontent.com/kapoor-arjun/kapoor-arjun/03dd8a720e9ee1361602dde6215bbcbbbc66b73c/icons/gnubash.svg'>
   <img width ='60px' height='60px' src ='https://raw.githubusercontent.com/kapoor-arjun/kapoor-arjun/03dd8a720e9ee1361602dde6215bbcbbbc66b73c/icons/linux.svg'>
   <img width ='60px' height='60px' src ='https://raw.githubusercontent.com/kapoor-arjun/kapoor-arjun/03dd8a720e9ee1361602dde6215bbcbbbc66b73c/icons/jenkins.svg'>
