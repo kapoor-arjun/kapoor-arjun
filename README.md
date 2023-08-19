@@ -27,7 +27,7 @@
   <img width ='60px' height='60px' src ='https://raw.githubusercontent.com/kapoor-arjun/kapoor-arjun/0d4dc6781cefed2fe3f99c8514e74e76e7b3870d/icons/cplusplus.svg'>
   <img width ='60px' height='60px' src ='https://raw.githubusercontent.com/kapoor-arjun/kapoor-arjun/0d4dc6781cefed2fe3f99c8514e74e76e7b3870d/icons/csharp.svg'>
   <img width ='60px' height='60px' src ='https://raw.githubusercontent.com/kapoor-arjun/kapoor-arjun/d58cdab48a1770f7d14f53bd478c3a8146d492ad/icons/python.svg'>
-  <img width ='60px' height='60px' src ='https://raw.githubusercontent.com/kapoor-arjun/kapoor-arjun/8fbf59937e714744d8c131e0f18e81a6b73fd4ed/icons/golang.svg'>
+  <img width ='60px' height='60px' src ='https://github.com/kapoor-arjun/kapoor-arjun/blob/main/icons/dancing-gopher.gif'>
   <img width ='60px' height='60px' src ='https://raw.githubusercontent.com/kapoor-arjun/kapoor-arjun/d58cdab48a1770f7d14f53bd478c3a8146d492ad/icons/unrealengine.svg'>
   <img width ='60px' height='60px' src ='https://raw.githubusercontent.com/kapoor-arjun/kapoor-arjun/d58cdab48a1770f7d14f53bd478c3a8146d492ad/icons/unity.svg'>
   <img width ='60px' height='60px' src ='https://raw.githubusercontent.com/kapoor-arjun/kapoor-arjun/d58cdab48a1770f7d14f53bd478c3a8146d492ad/icons/git.svg'>
