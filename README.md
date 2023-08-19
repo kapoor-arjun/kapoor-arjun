@@ -2,7 +2,7 @@
 <img width="100%" height = "250px" src="https://github.com/kapoor-arjun/kapoor-arjun/blob/main/banner/LevelUp.jpeg" alt="cover" />
 </div>
 
-<h1> Hello Fellow Developers! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+<h1> Hello Fellow Developers! <img src = "https://github.com/kapoor-arjun/kapoor-arjun/blob/main/icons/dancing-gopher.gif?raw=true" width = 50px height='50px'> </h1>
 <p align='center'>
 
 </p>
