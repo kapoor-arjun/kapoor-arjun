@@ -48,15 +48,3 @@
 <h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="70px" height=60px> </h2>
 <a href = 'https://www.linkedin.com/in/kapoor-arjun/'> <img width = '60px' align= 'center' src="https://raw.githubusercontent.com/kapoor-arjun/kapoor-arjun/d2e9e654e66b363f861385d3261bc857c292ff5c/icons/linkedin.svg"/></a>
 <a href = 'https://github.com/kapoor-arjun'> <img width = '50px' align= 'center' src="https://raw.githubusercontent.com/kapoor-arjun/kapoor-arjun/03dd8a720e9ee1361602dde6215bbcbbbc66b73c/icons/github.svg"/></a> 
-
-<h2> Github Stats </h2>
-
-![](https://komarev.com/ghpvc/?username=kapoor-arjun&style=for-the-badge&color=blueviolet)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kapoor-arjun&layout=compact)
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=kapoor-arjun&show_icons=true)
-
-<h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
-
-[![Readme Quotes](https://dev-humor.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
