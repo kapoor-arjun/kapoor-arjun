@@ -32,7 +32,7 @@
   <img width ='60px' height='60px' src ='https://raw.githubusercontent.com/kapoor-arjun/kapoor-arjun/d58cdab48a1770f7d14f53bd478c3a8146d492ad/icons/unrealengine.svg'>
   <img width ='60px' height='60px' src ='https://raw.githubusercontent.com/kapoor-arjun/kapoor-arjun/d58cdab48a1770f7d14f53bd478c3a8146d492ad/icons/git.svg'>
   <img width ='60px' height='60px' src ='https://raw.githubusercontent.com/kapoor-arjun/kapoor-arjun/03dd8a720e9ee1361602dde6215bbcbbbc66b73c/icons/linux.svg'>
-  <img width ='60px' height='60px' src ='https://raw.githubusercontent.com/kapoor-arjun/kapoor-arjun/0d4dc6781cefed2fe3f99c8514e74e76e7b3870d/icons/embedded.svg'>
+  <img width ='60px' height='60px' src ='https://raw.githubusercontent.com/kapoor-arjun/kapoor-arjun/241f0cade04c52e97849c88a1356efa35d044508/icons/embedded.svg'>
 </div>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="70px" height=60px> </h2>
