@@ -13,11 +13,11 @@
 
 - 🔭 I’m currently working on making video games.
 
-- 🌱 I’m currently learning ethical hacking.
+- 🌱 I’m currently learning graphics programming.
 
-- 👯 I’m open to collaborate on Game Dev projects / CTF exercises.
+- 👯 I’m open to collaborate on Game Dev projects.
 
-- 💬 Talk to me about Game Development, Cyber Security, Ethical Hacking, Linux, Open Source...
+- 💬 Talk to me about Game Development, Graphics Programming, Cyber Security, Ethical Hacking, Linux, Open Source...
 
 - 💬 Reach me here: arjun.kapoor@tutamail.com
 
