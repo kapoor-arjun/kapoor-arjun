@@ -6,6 +6,6 @@ Contact:      arjun.kapoor@tuta.io
 [Technical Skills]
 Languages:    C++, C#, Python
 Engines:      Unity, Unreal
-Graphics:     Direct3D 11, 12
+Graphics:     OpenGL, Direct3D 12
 Others:       PlayFab, Azure
 ```
